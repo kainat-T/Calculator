@@ -20,4 +20,4 @@ elif 25 <= BMI <= 29.9:
     print("You are overweight!")
 else:
     print("You are obese!")
-
+input("Press Enter to exit!")
