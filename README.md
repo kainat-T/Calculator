@@ -1,14 +1,23 @@
-Simple Python Calculator
-This is a basic calculator made using Python. It lets you perform simple math operations like:
+This repository contains simple calculators:-
 
+1. ✅ Simple Calculator
+A command-line calculator that performs:
 Addition
-
 Subtraction
-
 Multiplication
-
 Division
 
-You use it by running the program and selecting the operation you want. It's easy to use and great for beginners who are learning Python.
+How it works:
+The user selects an operation from the menu and enters two numbers. The result is then shown.
 
-To exit the calculator, just choose the "Exit" option from the menu.
+2. ✅ BMI Calculator
+This calculator helps you find your Body Mass Index (BMI) based on your height and weight.
+
+How it works:
+You enter your weight (in kg) and height (in meters)
+
+It calculates your BMI using the formula:
+BMI = weight/height^2
+
+Then it tells you if you're underweight, normal, overweight, or obese.
+
